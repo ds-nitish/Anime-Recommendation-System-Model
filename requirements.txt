@@ -48,7 +48,6 @@ Pympler
 pyrsistent
 python-dateutil
 pytz
-pywin32
 pyzmq
 regex
 requests
